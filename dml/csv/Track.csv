@@ -1,0 +1,761 @@
+id,album_id,name,duration
+1,1,Ride My Rocket,292
+2,1,I`ll Be Alright,190
+3,1,Tell Me If You Want It,221
+4,1,Latest Lover,172
+5,1,Biggest Part Of Me,286
+6,1,Metal Magic,254
+7,1,Widowmaker,181
+8,1,Nothin On (But The Radio),208
+9,1,Sad Lover,203
+10,2,All Over Tonite,213
+11,2,Out For Blood,188
+12,2,Blue Lite Turnin Red,97
+13,2,Like Fire,238
+14,2,In Over My Head,237
+15,2,Projects In The Jungle,185
+16,2,Heavy Metal Rules!,256
+17,2,Heartbeat Away,236
+18,2,Killers,209
+19,2,Takin My Life,268
+20,3,Hot And Heavy,245
+21,3,I Am The Night,266
+22,3,Onward We Rock!, 236
+23,3,D*G*T*T*M,103
+24,3,Daughters Of The Queen,254
+25,3,Down Below,159
+26,3,Come-On Eyes,252
+27,3,Right On The Edge,243
+28,3,Valhalla,244
+29,3,Forever Tonight,243
+30,4,Rock The World,212
+31,4,Power Metal,231
+32,4,We`ll Meet Again,232
+33,4,Over And Out,304
+34,4,Proud To Be Loud,239
+35,4,Down Below,168
+36,4,Death Trap,245
+37,4,Hard Ride,251
+38,4,Burnnn!,213
+39,4,P*S*T*88,169
+40,5,Cowboys From Hell,246
+41,5,Primal Concrete Sledge,133
+42,5,Psycho Holiday,319
+43,5,Heresy,286
+44,5,Cemetery Gates,422
+45,5,Domination,304
+46,5,Shattered,202
+47,5,Clash With Reality,316
+48,5,Medicine Man,315
+49,5,Message In Blood,309
+50,5,The Sleep,347
+51,5,The Art Of Shredding,260
+52,6,Mouth For War,237
+53,6,A New Level,237
+54,6,Walk,314
+55,6,Fucking Hostile,268
+56,6,This Love,392
+57,6,Rise,276
+58,6,No Good (Attack The Radical),290
+59,6,Living In A Hole,300
+60,6,Regular People (Conceit),327
+61,6,By Demons Be Driven,290
+62,6,Hollow,346
+63,7,Strength Beyond Strength,219
+64,7,Becoming,185
+65,7,5 Minutes Alone,347
+66,7,I`m Broken,264
+67,7,Good Friends And A Bottle Of Pills,173
+68,7,Hard Lines Sunken Cheeks,421
+69,7,Slaughtered,236
+70,7,25 Years,305
+71,7,Shedding Skin,336
+72,7,Use My Third Arm,291
+73,7,Throes Of Rejection,301
+74,7,Planet Caravan (Black Sabbath cover),248
+75,7,The Badge (Poison Idea cover),235
+76,8,The Great Southern Trendkill,227
+77,8,War Nerve,293
+78,8,Drag The Waters,295
+79,8,10`s,289
+80,8,13 Steps To Nowhere,217
+81,8,Suicide Note Pt. I,284
+82,8,Suicide Note Pt. II,259
+83,8,Living Through Me (Hells Wrath),290
+84,8,Floods,359
+85,8,The Underground In America,233
+86,8,(Reprise) Sandblasted Skin,640
+87,8,Walk (Live Version),329
+88,9,New Level,244
+89,9,Walk,350
+90,9,Becoming,239
+91,9,5 Minutes Alone,336
+92,9,Sandblasted Skin,269
+93,9,Suicide Note Pt. 2,260
+94,9,War Nerve,321
+95,9,Strength Beyond Strength,217
+96,9,Dom/Hollow,223
+97,9,This Love,417
+98,9,I`m Broken,266
+99,9,Cowboys From Hell,275
+100,9,Cemetery Gates,473
+101,9,Hostile,235
+102,9,Where You Come From (Studio Recording May 97),311
+103,9,I Can`t Hide (Studio Recording May 97),136
+104,10,Hellbound,160
+105,10,Goddamn Electric,295
+106,10,Yesterday Don`t Mean Shit,259
+107,10,You`ve Got To Belong To It,253
+108,10,Revolution Is My Name,315
+109,10,Death Rattle,197
+110,10,We`ll Grind That Axe For A Long Time,224
+111,10,Uplift,225
+112,10,It Makes Them Disappear,381
+113,10,I`ll Cast A Shadow,322
+114,11,Bored To Tears,270
+115,11,The Rose Petalled Garden,295
+116,11,Hey You (Batch Of Lies),233
+117,11,Born To Lose,263
+118,11,Peddlers Of Death,274
+119,11,Mother Mary,267
+120,11,Beneath The Tree,249
+121,11,Low Down,304
+122,11,T.A.Z.,117
+123,11,Black Pearl,208
+124,11,World Of Trouble,319
+125,11,Spoke In The Wheel,254
+126,11,The Beginning... At Last,265
+127,12,All For You,239
+128,12,Phoney Smiles And Fake Hellos,254
+129,12,13 Years Of Grief,252
+130,12,Rust,309
+131,12,Superterrorizer,334
+132,12,Counterfeit God,258
+133,12,Ain`t Life Grand,279
+134,12,Just Killin` Time,296
+135,12,Bullet Inside Your Head (Japanese Bonus Track),295
+136,12,Stronger Than Death,292
+137,12,Love Reign Down,485
+138,13,Bleed For Me,331
+139,13,Lords Of Destruction,311
+140,13,Demise Of Sanity,203
+141,13,Life Birt Blood Doom,261
+142,13,Bridge To Cross,349
+143,13,Battering Ram,142
+144,13,Speedball,58
+145,13,Graveyard Disciples,200
+146,13,Genocide Junkies,353
+147,13,Lost Heaven,264
+148,13,Refuse To Bow Down,293
+149,13,Mass Murder Machine,347
+150,13,Berserkers,306
+151,13,America The Beautiful,197
+152,13,Llabdeeps (Japanese Bonus Track),60
+153,14,Stoned And Drunk,302
+154,14,Doomsday Jesus,210
+155,14,Stillborn,195
+156,14,Suffering Overdue,269
+157,14,The Blessed Hellride,273
+158,14,Funeral Bell,281
+159,14,Final Solution,245
+160,14,Destruction Overdrive,181
+161,14,Blackened Waters,236
+162,14,We Live No More,241
+163,14,Dead Meadow, 271
+164,14,F.U.N. (Japanese Bonus Track),178
+165,15,Crazy Or High,215
+166,15,Queen Of Sorrow,255
+167,15,Steppin Stone,295
+168,15,Yesterday Today Tomorrow,224
+169,15,Takillya (Esthabon),39
+170,15,Won`t Find It Here,386
+171,15,She Deserves A Free Ride (Val`s Song),260
+172,15,House Of Doom,227
+173,15,Damage Is Done,321
+174,15,Layne,316
+175,15,Woman Don`t Cry,339
+176,15,No Other,299
+177,15,Whiter Shade Of Pale,309
+178,15,Once More,251
+179,15,Fear,285
+180,16,Fire It Up,300
+181,16,What`s In You,181
+182,16,Suicide Messiah,348
+183,16,Forever Down,219
+184,16,In This River,233
+185,16,You Must Be Blind,208
+186,16,Death March,185
+187,16,Dr. Octavia,50
+188,16,Say What You Will,227
+189,16,Too Tough To Die,230
+190,16,Electric Hellfire,148
+191,16,Spread Your Wings,210
+192,16,Been A Long Time,187
+193,16,Dirt On The Grave,171
+194,16,I Never Dreamed (Lynyrd Skynyrd Cover) (Japanese Bonus Track,369
+195,17,Concrete Jungle,204
+196,17,Black Mass Reverends,157
+197,17,Blacked Out World,197
+198,17,The Last Goodbye,244
+199,17,Give Yourself To Me,198
+200,17,Nothing`s The Same,182
+201,17,Hell Is High,212
+202,17,New Religion,277
+203,17,Sick Of It All,235
+204,17,Faith Is Blind,216
+205,17,Blood Is Thicker Than Water,179
+206,17,Devil`s Dime,136
+207,17,Lead Me To Your Door,214
+208,18,Crazy Horse,244
+209,18,Overlord,235
+210,18,Parade Of The Dead,217
+211,18,Darkest Days,257
+212,18,Black Sunday,206
+213,18,Southern Dissolution,296
+214,18,Time Waits For No One,216
+215,18,Godspeed Hellbound,283
+216,18,War Of Heaven,249
+217,18,Shallow Grave,217
+218,18,Chupacabra,49
+219,18,Riders Of The Damned,204
+220,18,January,144
+221,18,Can`t Find My Way Home,214
+222,19,Overlord,307
+223,19,Parade Of The Dead,235
+224,19,Riders Of The Damned,227
+225,19,Darkest Days,245
+226,19,Juniors Eyes,327
+227,19,Helpless,277
+228,19,Bridge Over Troubled Water,222
+229,19,Can`t Find My Way Home,219
+230,19,Darkest Days (John Rich Album Version),245
+231,19,The First Noel,174
+232,20,Fields of Unforgiveness,195
+233,20,My Dying Time,204
+234,20,Believe,227
+235,20,Angel Of Mercy,257
+236,20,Heart Of Darkness,221
+237,20,Beyond The Down,177
+238,20,Scars,256
+239,20,Damn The Flood,201
+240,20,I`ve Gone Away,234
+241,20,Empty Promises,319
+242,20,Shades Of Gray,391
+243,20,Dark Side Of The Sun (Bonus Track),322
+244,20,Blind Man (EU Bonus Track),276
+245,21,Moon Baby,264
+246,21,Whatever,207
+247,21,Keep Away,291
+248,21,Time Bomb,241
+249,21,Bad Religion,194
+250,21,Immune,291
+251,21,Someone in London,124
+252,21,Get Up Get Out!,210
+253,21,Now or Never,306
+254,21,Stress,304
+255,21,Situation,351
+256,21,Goin Down,212
+257,21,Bad Magick,257
+258,21,Voodoo,544
+259,22,Sick of Life,233
+260,22,Awake,305
+261,22,Greed,210
+262,22,Bad Magic,258
+263,22,Goin Down,205
+264,22,Mistakes,359
+265,22,Trippin`,296
+266,22,Forgive Me,260
+267,22,Vampires,228
+268,22,The Journey,50
+269,22,Spiral,335
+270,22,Why (ft. Lisa Guyer) (Acoustic version),196
+271,22,Sweet Leaf (Black Sabbath Cover),296
+272,23,Straight Out of Line,260
+273,23,Faceless,216
+274,23,Changes,260
+275,23,Make Me Believe,249
+276,23,I Stand Alone,247
+277,23,Re-Align,261
+278,23,I Fucking Hate You,248
+279,23,Releasing the Demons, 53
+280,23,Dead and Broken,252
+281,23,I Am,240
+282,23,The Awakening,90
+283,23,Serenity,275
+284,24,Livin In Sin,281
+285,24,Speak,238
+286,24,The Enemy,248
+287,24,Shine Down,302
+288,24,Hollow,273
+289,24,No Rest For The Wicked,279
+290,24,Bleeding Me,218
+291,24,Woodoo Too,327
+292,24,Temptation,247
+293,24,Mama,315
+294,24,One Rainy Day,442
+295,24,Safe And Sound,260
+296,25,Saints and Sinners,251
+297,25,War and Peace,190
+298,25,Love-Hate-Sex-Pain,316
+299,25,What If?,396
+300,25,Devil`s Swing,211
+301,25,Good Day to Die,236
+302,25,Forever Shamed,204
+303,25,Shadow of a Soul,285
+304,25,The Oracle,383
+305,25,Whiskey Hangover,228
+306,25,I Blame You,189
+307,26,1000hp,227
+308,26,FML,219
+309,26,Something Different,283
+310,26,What`s Next?,261
+311,26,Generation Day,372
+312,26,Locked & Loaded,251
+313,26,Living in the Gray,248
+314,26,I Don`t Belong,214
+315,26,Nothing Comes Easy,339
+316,26,Turning to Stone,317
+317,26,Life Is Good!,246
+318,27,When Legends Rise,173
+319,27,Bulletproof,178
+320,27,Unforgettable,209
+321,27,Every Part of Me,201
+322,27,Take It to the Edge,196
+323,27,Under Your Scars,232
+324,27,Someday,465
+325,27,Just One Time,190
+326,27,Say My Name,217
+327,27,Let It Out,222
+328,27,Eye of the Storm,222
+329,28,Alive & Well,126
+330,28,My Life Inside Your Heart,182
+331,28,Great Awakening,95
+332,28,Six Ways `Till Sunday,156
+333,28,401 Kill,199
+334,28,The Art Of Losing,110
+335,28,Remains Of Summer Memories,77
+336,28,The Unraveling,192
+337,28,Reception Fades,130
+338,28,Stained Glass & Marble,96
+339,28,Everchanging,227
+340,28,Sometimes Selling Out Is Giving Up,69
+341,28,3 Day Weekend,63
+342,28,1000 Good Intentions,187
+343,28,Weight Of Time,120
+344,28,Faint Resemblance,171
+345,29,Black Masks & Gasoline,180
+346,29,Heaven Knows,203
+347,29,Dead Ringer,92
+348,29,Halfway There,221
+349,29,Like the Angel,167
+350,29,Voices Off Camera,137
+351,29,Blood-Red White & Blue,219
+352,29,Broken English,205
+353,29,Last Chance Blueprint,134
+354,29,To the Core,93
+355,29,Torches,221
+356,29,Amber Changing,219
+357,30,State Of the Union,139
+358,30,The First Drop,159
+359,30,Life Less Frightening,224
+360,30,Paper Wings,223
+361,30,Blood to Bleed,228
+362,30,To Them These Streets Belong,169
+363,30,Tip the Scales,229
+364,30,Anywhere But Here,218
+365,30,Give It All,170
+366,30,Dancing for Rain,241
+367,30,Swing Life Away,200
+368,30,Rumors Of My Demise Have Been Greatly Exaggerated,254
+369,31,Intro / Chamber the Cartridge,214
+370,31,Injection,199
+371,31,Ready to Fall,227
+372,31,Bricks,90
+373,31,Under the Knife,165
+374,31,Prayer Of the Refugee,199
+375,31,Drones,181
+376,31,The Approaching Curve,224
+377,31,Worth Dying For,200
+378,31,Behind Closed Doors,195
+379,31,Roadside,201
+380,31,The Good Left Undone,250
+381,31,Survive,221
+382,32,Collapse (Post-Amerika),199
+383,32,Long Forgotten Sons,241
+384,32,Re-Education (Through Labor),222
+385,32,The Dirt Whispered,189
+386,32,Kotov Syndrome,184
+387,32,From Heads Unworthy,222
+388,32,The Strength to Go On,207
+389,32,Audience Of One,245
+390,32,Entertainment,214
+391,32,Hero Of War,253
+392,32,Savior,242
+393,32,Hairline Fracture,242
+394,32,Whereabouts Unknown,241
+395,33,Architects,222
+396,33,Help Is On the Way,237
+397,33,Make It Stop (September`s Children),234
+398,33,Disparity By Design,228
+399,33,Satellite,238
+400,33,Midnight Hands,257
+401,33,Survivor Guilt,239
+402,33,Broken Mirrors,234
+403,33,Wait for Me,219
+404,33,A Gentlemen`s Coup,226
+405,33,This Is Letting Go,221
+406,33,Endgame,204
+407,34,The Great Die-Off,219
+408,34,I Don`t Want to Be Here Anymore,239
+409,34,Tragedy + Time,257
+410,34,The Black Market,256
+411,34,The Eco-Terrorist In Me,165
+412,34,Sudden Life,248
+413,34,Methadone, 228
+414,34,Zero Visibility,258
+415,34,Awake Too Long,192
+416,34,People Live Here,249
+417,34,Bridges,246
+418,35,Wolves,217
+419,35,House On Fire,194
+420,35,The Violence,228
+421,35,Welcome to the Breakdown,183
+422,35,Far from Perfect,212
+423,35,Bulls**t,252
+424,35,Politics Of Love,249
+425,35,Parts Per Million,221
+426,35,Mourning In Amerika,199
+427,35,How Many Walls,230
+428,35,Miracle,220
+429,36,Get Inside,193
+430,36,Orchids,262
+431,36,Cold Reader,221
+432,36,Blotter,242
+433,36,Choose,257
+434,36,Monolith,225
+435,36,Inhale,265
+436,36,Bother,240
+437,36,Blue Study,277
+438,36,Take A Number,222
+439,36,Idle Hands,236
+440,36,Tumult,243
+441,36,Omega,175
+442,36,Rules of Evidence,224
+443,36,The Wicked (Bonus Track),295
+444,36,Inside The Cynic (Bonus Track),204
+445,36,Kill Everybody (Bonus Track),206
+446,36,Road Hogs (Bonus Track),233
+447,37,30/30-150,258
+448,37,Come What(Ever) May,219
+449,37,Hell And Consequences,211
+450,37,Sillyworld,248
+451,37,Made Of Scars,203
+452,37,Reborn,192
+453,37,Your God,283
+454,37,Through Glass,282
+455,37,Socio,200
+456,37,1st Person,241
+457,37,Cardiff,282
+458,37,Zzyxz Rd.,240
+459,37,Suffer,222
+460,37,Fruitcake,240
+461,37,The Day I Let Go,305
+462,37,Freeze Dry Seal,163
+463,37,Wicked Game [Chris Isaak Cover],264
+464,37,The Frozen,184
+465,38,Audio Secrecy,106
+466,38,Mission Statement,231
+467,38,Digital (Did You Tell),240
+468,38,Say You`ll Haunt Me,264
+469,38,Dying,181
+470,38,Let`s Be Honest,224
+471,38,Unfinished,190
+472,38,Hesitate,256
+473,38,Nylon 6/6,218
+474,38,Miracles,247
+475,38,Pieces,271
+476,38,The Bitter End,214
+477,38,Imperfect,262
+478,38,Threadbare,347
+479,38,Hate Not Gone (Bonus Track),230
+480,38,Anna (Bonus Track),210
+481,38,Home Again (Bonus Track),234
+482,38,Saturday Morning (Bonus Track),195
+483,39,Gone Sovereign,243
+484,39,Absolute Zero,230
+485,39,A Rumor Of Skin,251
+486,39,The Travelers Pt.1,147
+487,39,Tired,252
+488,39,RU486,262
+489,39,My Name Is Allen,258
+490,39,Taciturn,326
+491,39,Influence Of A Drowsy God,269
+492,39,The Travelers Pt.2,182
+493,39,Last Of The Real,181
+494,40,Red City,279
+495,40,Black John,242
+496,40,Sadist,307
+497,40,Peckinpah,251
+498,40,Stalemate,288
+499,40,Gravesend,281
+500,40,82,222
+501,40,The Uncanny Valley,241
+502,40,Blue Smoke,127
+503,40,Do Me A Favor,224
+504,40,The Conflagration,296
+505,40,The House Of Gold & Bones,294
+506,41,YSIF,122
+507,41,Taipei Person/Allah Tea,316
+508,41,Knievel Has Landed,241
+509,41,Hydrograd,277
+510,41,Song #3,256
+511,41,Fabuless,240
+512,41,The Witness Trees,285
+513,41,Rose Red Violent Blue (This Song Is Dumb & So Am I),296
+514,41,Thanks God It`s Over,216
+515,41,St. Marie,267
+516,41,Mercy,203
+517,41,Whiplash Pants,259
+518,41,Friday Knights,317
+519,41,Somebody Stole My Eyes,227
+520,41,When The Fever Broke,392
+521,42,Undead,265
+522,42,Sell Your Soul,194
+523,42,Everywhere I Go,210
+524,42,No Other Place,196
+525,42,No. 5,185
+526,42,Young,196
+527,42,Black Dahlia,225
+528,42,This Love This Hate,237
+529,42,Bottle And A Gun,202
+530,42,California,196
+531,42,City,214
+532,42,The Diary,275
+533,42,Pimpin,187
+534,42,Paradise Lost,191
+535,42,The Loss (Bonus Track),195
+536,43,Been To Hell,203
+537,43,Apologize,207
+538,43,Comin In Hot,223
+539,43,My Town,216
+540,43,I Dont Wanna Die,238
+541,43,Hear Me Now,214
+542,43,Gangsta Sexy,233
+543,43,Glory,214
+544,43,Lights Out,231
+545,43,Coming Back Down,203
+546,43,Bullet,197
+547,43,Levitate,204
+548,43,Pour Me,243
+549,43,Tendencies,212
+550,43,Mother Murder (Bonus Track),249
+551,43,Lump Your Head (Bonus Track),217
+552,43,Le Deux (Bonus Track),225
+553,43,S.C.A.V.A (Bonus Track),244
+554,43,Undead (live) (Japan Bonus Track),288
+555,44,Dead Bite,219
+556,44,From The Ground,226
+557,44,Another Way Out,168
+558,44,Lion,235
+559,44,We Are,275
+560,44,Pigskin,162
+561,44,Rain,222
+562,44,Kill Everyone,173
+563,44,Believe,255
+564,44,Up In Smoke,220
+565,44,Outside,284
+566,45,Usual Suspects,227
+567,45,How We Roll,285
+568,45,Day Of The Dead,231
+569,45,War Child,238
+570,45,Dark Places,279
+571,45,Take Me Home,228
+572,45,Gravity,199
+573,45,Does Everybody In The World Have To Die,197
+574,45,Disease,211
+575,45,Party By Myself,250
+576,45,Live Forever,220
+577,45,Save Me,207
+578,45,Guzzle Guzzle,219
+579,45,I`ll Be There,241
+580,45,Let Go,256
+581,45,Sing (Bonus Track),245
+582,45,Fuck The World (Bonus Track),249
+583,46,California Dreaming,235
+584,46,Whatever It Takes,188
+585,46,Bad Moon,232
+586,46,Ghost Beach,235
+587,46,Broken Record,220
+588,46,Nobody`s Watching,239
+589,46,Renegade,184
+590,46,Black Cadillac (Feat. B-Real),228
+591,46,Pray (Put Em In The Dirt),264
+592,46,Cashed Out,209
+593,46,Riot,228
+594,46,We Own The Night,243
+595,46,Bang Bang,221
+596,46,Your Life,226
+597,47,Time Bomb,217
+598,47,Heart Of A Champion,210
+599,47,Already Dead,236
+600,47,Empire,239
+601,47,Killin It,175
+602,47,Enemy,191
+603,47,Upside Down,184
+604,47,Second Chances,253
+605,47,Nightmare,220
+606,48,Blew,175
+607,48,Floyd The Barber,138
+608,48,About A Girl,168
+609,48,School,162
+610,48,Love Buzz,215
+611,48,Paper Cuts,246
+612,48,Negative Creep,175
+613,48,Scoff,250
+614,48,Swap Meet,183
+615,48,Mr. Moustache,204
+616,48,Sifting,324
+617,48,Big Cheese,222
+618,48,Downer,105
+619,49,Smells Like Teen Spirit,302
+620,49,In Bloom,255
+621,49,Come As You Are,220
+622,49,Breed,184
+623,49,Lithium,257
+624,49,Polly,177
+625,49,Territorial Pissings,143
+626,49,Drain You,224
+627,49,Lounge Act,217
+628,49,Stay Away,213
+629,49,On A Plain,197
+630,49,Something In The Way,230
+631,49,Endless Nameless (Hidden Track),407
+632,50,Dive,236
+633,50,Sliver,137
+634,50,Stain,161
+635,50,Been A Son,116
+636,50,Turnaround,139
+637,50,Molly`s Lips,114
+638,50,Son Of A Gun,169
+639,50,(New Wave) Polly,108
+640,50,Beeswax,170
+641,50,Downer,104
+642,50,Mexican Seafood,116
+643,50,Hairspray Queen,254
+644,50,Aero Zepplin,282
+645,50,Big Long Now,304
+646,50,Aneurysm,278
+647,51,Serve The Servants,217
+648,51,Scentless Apprentice,228
+649,51,Heart-Shaped Box,281
+650,51,Rape Me,170
+651,51,Frances Farmer Will Have Her Revenge on Seattle,250
+652,51,Dumb,152
+653,51,Very Ape,116
+654,51,Milk It,235
+655,51,Pennyroyal Tea,217
+656,51,Radio Friendly Unit Shifter,291
+657,51,Tourette`s,95
+658,51,All Apologies,231
+659,51,Gallons Of Rubbing Alcohol Flow Through The Strip (Hidden Track),459
+660,52,You,208
+661,52,Creep,237
+662,52,How Do You?,132
+663,52,Stop Whispering,325
+664,52,Thinking About You,161
+665,52,Anyone Can Play Guitar,217
+666,52,Ripcord,189
+667,52,Vegetable,197
+668,52,Prove Yourself,145
+669,52,I Can`t,53
+670,52,Lurgee,187
+671,52,Blow Out,282
+672,53,Planet Telex,259
+673,53,The Bends,245
+674,53,High And Dry,257
+675,53,Fake Plastic Trees,291
+676,53,Bones,189
+677,53,(Nice Dream),223
+678,53,Just,234
+679,53,My Iron Lung,276
+680,53,Bullet Proof… I Wish I Was,208
+681,53,Black Star,247
+682,53,Sulk,223
+683,53,Street Spirit (Fade Out),252
+684,54,Airbag,287
+685,54,Paranoid Android,387
+686,54,Subterranean Homesick Alien,267
+687,54,Exit Music (For A Film),267
+688,54,Let Down,299
+689,54,Karma Police,264
+690,54,Fitter Happier,117
+691,54,Electioneering,230
+692,54,Climbing Up The Walls,285
+693,54,No Surprises,229
+694,54,Lucky,259
+695,54,The Tourist,324
+696,55,Everything In Its Right Place,251
+697,55,Kid A,284
+698,55,The National Anthem,347
+699,55,How To Disappear Completely,355
+700,55,Treefingers,202
+701,55,Optimistic,316
+702,55,In Limbo,211
+703,55,Idioteque,278
+704,55,Morning Bell,275
+705,55,Motion Picture Soundtrack,200
+706,55,Untitled,52
+707,56,Packt Like Sardines in a Crushd Tin Box,240
+708,56,Pyramid Song,289
+709,56,Pulk/Pull Revolving Doors,247
+710,56,You And Whose Army?,191
+711,56,I Might Be Wrong,292
+712,56,Knives Out, 255
+713,56,Morning Bell/Amnesiac,194
+714,56,Dollars and Cents,291
+715,56,Hunting Bears,121
+716,56,Like Spinning Plates,237
+717,56,Life In A Glasshouse,276
+718,57,2 + 2 = 5,199
+719,57,Sit Down. Stand Up,260
+720,57,Sail To The Moon,258
+721,57,Backdrifts,322
+722,57,Go To Sleep,201
+723,57,Where I End And You Begin,269
+724,57,We Suck Young Blood,296
+725,57,The Gloaming,212
+726,57,There There,323
+727,57,I Will,119
+728,57,A Punch Up At A Wedding,297
+729,57,Myxomatosis,232
+730,57,Scatterbrain,201
+731,57,A Wolf At The Door,201
+732,58,15 Step,237
+733,58,Bodysnatchers,241
+734,58,Nude,255
+735,58,Weird Fishes/Arpeggi,318
+736,58,All I Need,228
+737,58,Faust Arp,129
+738,58,Reckoner,290
+739,58,House Of Cards,328
+740,58,Jigsaw Falling Into Place,248
+741,58,Videotape,279
+742,59,Bloom,313
+743,59,Morning Mr Magpie,280
+744,59,Little By Little,267
+745,59,Feral,192
+746,59,Lotus Flower,300
+747,59,Codex,287
+748,59,Give Up The Ghost,290
+749,59,Separator,319
+750,60,Burn the Witch,220
+751,60,Daydreaming,384
+752,60,Decks Dark,281
+753,60,Desert Island Disk,224
+754,60,Ful Stop,367
+755,60,Glass Eyes,172
+756,60,Identikit,266
+757,60,The Numbers,345
+758,60,Present Tense,306
+759,60,Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief,303
+760,60,True Love Waits,283
